@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: phpYABS
+tagline: Manage your books easily
 ---
 {% include JB/setup %}
 
