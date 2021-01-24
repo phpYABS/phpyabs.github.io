@@ -7,7 +7,7 @@ tagline: Manage your books easily
 
 <p>Welcome to phpYABS's web site!</p>
 <p>This is my very first open source project, I was very young and inexperienced.
-Sometimes i like to improve this as a refactoring exercise. Code quality is still poor.
+Sometimes i like to improve this as a refactoring exercise. Code quality is still poor.</p>
 
 ## Posts
 
