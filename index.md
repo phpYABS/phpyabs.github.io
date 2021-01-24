@@ -6,7 +6,7 @@ tagline: Manage your books easily
 {% include JB/setup %}
 
 <p>Welcome to phpYABS's web site!</p>
-<p>This is my very first open source project, I was very young and inexperienced.
+<p>This is my very first open source project (early 2000s), I was very young and inexperienced.
 Sometimes i like to improve this as a refactoring exercise. Code quality is still poor.</p>
 
 ## Posts
